@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+   <TextView
+       android:id="@+id/id_1"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:textColor="#ff1891"
+       android:textSize="20sp"
+       android:text="Username"
+      />
+
+
+   <EditText
+       android:id="@+id/id_2"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:hint="Enter name here"
+       android:inputType="text"
+      />
+   <ImageView
+       android:id="@+id/id_3"
+       android:layout_width="match_parent"
+       android:layout_height="400dp"
+       android:src="@drawable/myphoto"
+      />
+
+   <TextView
+       android:id="@+id/id_4"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:textColor="#ff1891"
+       android:textSize="20sp"
+       android:text="Password"
+      />
+
+   <EditText
+       android:id="@+id/id_5"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:hint="Enter password here"
+       android:inputType="textPassword" />
+
+<Button
+   android:id="@+id/id_6"
+   android:text="submit"
+   android:textSize="20sp"
+   android:layout_width="wrap_content"
+   android:layout_height="wrap_content"
+   />
+
+
+
+
+</LinearLayout>
