@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My_first_project</string>
+    <string name="user_registration_form">User Registration Form</string>
+    <string name="hint_full_name">Enter full name</string>
+    <string name="hint_email_address">Enter email address</string>
+    <string name="hint_phone_number">Enter phone number</string>
+    <string name="select_gender">Select Gender:</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="select_course">Select Course:</string>
+    <string name="submit_form">Submit Form</string>
+</resources>

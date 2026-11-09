@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DatabaseLab</string>
+    <string name="hint_name">name</string>
+    <string name="hint_phone">phone number</string>
+    <string name="hint_id">ID</string>
+    <string name="btn_save">save</string>
+    <string name="btn_update">update</string>
+    <string name="btn_delete">delete</string>
+    <string name="btn_view">view</string>
+</resources>
